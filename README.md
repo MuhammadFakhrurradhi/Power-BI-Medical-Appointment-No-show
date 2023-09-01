@@ -64,7 +64,7 @@ Weekday doctor's appointment no-shows are frequently influenced by work obligati
 
 
 
-*details processes can be followed in this following link [https://fakhrurradhi.notion.site/Medical-Appointment-No-Shows-0467b4ca173748539d38b86b0b2fad5c?pvs=4].
+*details processes can be followed in this following link [(https://muhammadfakhrurradhi.notion.site/Medical-Appointment-No-Shows-0467b4ca173748539d38b86b0b2fad5c?pvs=4)https://muhammadfakhrurradhi.notion.site/Medical-Appointment-No-Shows-0467b4ca173748539d38b86b0b2fad5c?pvs=4].
 
 
 
