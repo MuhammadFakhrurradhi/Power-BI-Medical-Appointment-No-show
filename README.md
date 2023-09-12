@@ -29,6 +29,10 @@ Dataset can be accessed through this link [Medical Appointment](https://www.kagg
 - No_show : True or False (yes or no)
 
 ### Medical Appointment No- Show Analysis
+
+Interactive report [medical no-show](https://app.powerbi.com/view?r=eyJrIjoiOTNjZWY2NmYtMjVjYi00MDJmLWI3MWEtMWE5MjFiMjExM2M5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 ![image](https://github.com/MuhammadFakhrurradhi/Power-BI-Medical-Appointment-No-show/assets/131879017/ac8a16a9-c0d4-4cfa-8f2c-f9b1a26d2e9f)
 
 A healthcare facility provides a range of services that necessitate customers to make advance appointments. These services encompass medical consultations, minor surgeries, blood tests, and more. Although most clients adhere to their scheduled appointments, approximately many of patients do not show up. Such instances of no-shows result in significant costs for the medical center, as valuable time slots are left unused, potentially depriving other patients who could have attended. Moreover, patients who miss their appointments also miss out on an opportunity to address their health needs. To mitigate the impact of no-shows, the medical center aims to proactively reach out to patients who are likely to miss their appointments. This involves sending reminders via calls or text messages to prompt attendance or offer the option of rescheduling.
